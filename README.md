@@ -295,3 +295,5 @@ Support zen-coding syntax for Angular 2 typescript files.
 <img src="https://raw.githubusercontent.com/Abdulmoiz-Ahmer/back-packer-images/master/ng2tstestsnippets.png" alt="HTML CSS Support" width="60%" height="60%" />
 
 Angular 2 TypeScript test snippets (updated up to Angular 2.1.2)
+
+Special thanks to <a href="https://github.com/irfanbalghari">Irfan Balghari</a>
